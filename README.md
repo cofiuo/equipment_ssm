@@ -2,6 +2,12 @@
 
 基于 Spring + Spring MVC + MyBatis 的实验室设备借还管理系统，课程设计项目。
 
+## 演示
+
+![系统演示](docs/demo.gif)
+
+完整演示视频（约 4 分钟，含各角色完整操作流程）：[docs/demo-full.mp4](docs/demo-full.mp4)
+
 ## 技术栈
 
 - Spring 5 / Spring MVC（以 Java 配置类为主）
